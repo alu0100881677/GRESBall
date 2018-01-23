@@ -35,17 +35,17 @@ Se trata de todo tipo de objeto con el cual el personaje no podrá chocar, ya qu
 
 Las rampas, son un tipo especial de roca, en el cual la bola puede subir, y saltar un determinado tiempo en el aire. Además, la bola ve incrementado su tamaño un 50% durante unos segundos.
 
-![Imagen no encontrada](imagenes/imagen2.png)
+![Imagen no encontrada](imagenes/Imagen2.png)
 
 ### Cocos
 Los cocos, son elementos con los que `SÍ` puede interactuar la bola, ya que son elementos los cuales el usuario debe recolectar para poder comprar diferentes bolas en la tienda posteriormente. Cada vez que la pelota recolecta un coco, el usuario recibirá 100 monedas.
 
-![Imagen no encontrada](imagenes/imagen3.png)
+![Imagen no encontrada](imagenes/Imagen3.png)
 
 ### Piñas
 Las piñas son objetos que, al igual que los cocos, sí pueden ser colisionados con la bola. En su caso, disminuyen el tamaño del personaje un 50% durante unos segundos, permitiendo una mayor visibilidad y agilidad para evitar obstáculos.
 
-![Imagen no encontrada](imagenes/imagen4.png)
+![Imagen no encontrada](imagenes/Imagen4.png)
 
 
 ## Reparto del trabajo
